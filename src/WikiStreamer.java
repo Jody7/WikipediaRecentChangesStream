@@ -9,7 +9,7 @@ public class WikiStreamer {
     public void addWikiListener(Object a) {
         _listeners.add(a);
 
-        //TODO Begin HTTP loop
+        //TODO Begin HTTP loop.
 
 
 
